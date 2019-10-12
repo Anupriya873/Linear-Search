@@ -27,5 +27,5 @@ int main()
    }
    else
     {printf("found at %d",pos);}
-return 0;
+getch();
 }
